@@ -17,20 +17,25 @@ PhD in Neuroscience, McGill University (defended November 2026) · Visiting Scho
 <!-- Add a repo link to each title once that repo is public. Synthetic data only. -->
 
 **Semantic network estimation in TypeScript**
+
 A from-scratch TypeScript implementation of seven methods for inferring semantic networks from verbal fluency lists: First-Edge, Naive Random Walk, Pathfinder, Conceptual, Correlation, U-INVITE and Hierarchical U-INVITE. Runs in the browser and is tested with Vitest.
 
 **SVFEE: exploration and exploitation in speech**
+
 My PhD pipeline: handwritten transcripts to OCR, word embeddings, similarity-based phase segmentation, and one exploration-exploitation index per person. Applied to 52 people with Parkinson's disease and tested against MEG and neuromelanin MRI.
 
 **LeanWorkbook linter**
+
 A Python linter for a public formal-mathematics benchmark used in language-model training. It flags statements whose formal version dropped a positivity constraint the natural-language problem relies on, which can make the statement false.
 
 **Semantic Fluency Studio**
+
 A clinician-facing React, TypeScript and D3 app for recording fluency speech, viewing a person's semantic network, and comparing patients.
 
 #### Tools
 
 Python (NumPy, SciPy, pandas, scikit-learn, spaCy, NetworkX) · R · TypeScript, React, D3 · MATLAB · Git
+
 Mixed-effects models, bootstrapped mediation, word embeddings, Whisper transcription pipelines, high-density EEG
 
 #### Elsewhere

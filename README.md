@@ -16,9 +16,9 @@ PhD in Neuroscience, McGill University (defended November 2026) · Visiting Scho
 
 <!-- Add a repo link to each title once that repo is public. Synthetic data only. -->
 
-**Semantic network estimation in TypeScript**
+**[Semantic network estimation in TypeScript](https://github.com/dlchihade/semantic-network-estimation)**
 
-A from-scratch TypeScript implementation of seven methods for inferring semantic networks from verbal fluency lists: First-Edge, Naive Random Walk, Pathfinder, Conceptual, Correlation, U-INVITE and Hierarchical U-INVITE. Runs in the browser and is tested with Vitest.
+A TypeScript implementation of seven methods for inferring semantic networks from verbal fluency lists (First Edge, Naive Random Walk, Pathfinder, Conceptual, Correlation, U-INVITE and Hierarchical U-INVITE), written from the SNAFU papers by Zemla and Austerweil. Runs in the browser, with tests and a synthetic example.
 
 **SVFEE: exploration and exploitation in speech**
 
